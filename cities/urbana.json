@@ -1,0 +1,17 @@
+{
+    "name":     "Urbana",
+    "state":    "IL",
+    "high":     {
+        "avg":  38.5,
+        "std":  4.5
+    },
+    "low":      {
+        "avg":  -10.3,
+        "std":  4.5
+    },
+    "precip":   {
+        "yamt": 825.0,
+        "std":  10.0,
+        "days": 65.0
+    }
+}
